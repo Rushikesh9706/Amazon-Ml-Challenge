@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+*.log
+.DS_Store
+
+# Large datasets
+*.tsv
+*.csv
+*.zip
+*.parquet
+
+# SageMaker / temporary files
+.cache/
